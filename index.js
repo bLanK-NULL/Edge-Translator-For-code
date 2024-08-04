@@ -9,6 +9,8 @@
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/bLanK-NULL/Edge-Translator-For-code/main/index.js
+// @downloadURL  https://raw.githubusercontent.com/bLanK-NULL/Edge-Translator-For-code/main/index.js
 
 // ==/UserScript==
 
